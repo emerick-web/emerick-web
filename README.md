@@ -1,8 +1,5 @@
 # Olá, eu sou Emerick 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C850C0&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Estudante+de+Tecnologia;Apaixonado+por+código" alt="Typing SVG" />
-</div>
+### Desenvolvedor Web | Estudante de Tecnologia | Apaixonado por código
 
 ---
 
